@@ -1,0 +1,77 @@
+/* 
+nav {
+  
+    border-style: outset;
+    border-color: rgb(220, 218, 218);
+    border-width: 1px;
+    border-left-width: 0cap;
+    border-right-width: 0cap;
+      align-items: center;
+      height: 40px;
+      display: flex;
+      background-color: #fffdfd;
+      color: #007621;
+      margin-left: 20px;
+       justify-content: space-between; 
+      padding-right: 2px;
+    }
+  
+    
+  
+    
+  
+    nav li{
+      
+      list-style: none;
+      font-size: large;
+    }
+    nav a {
+      font-weight: bold;
+      text-align: center;
+     display: inline;
+      color: #000000;
+      margin-right: 10px;
+      text-decoration: none;
+    }
+  
+    .linklerMenu{
+      padding: 7px;
+    }
+  
+    .linklerMenu:hover{
+      color:blue;
+    }
+  
+    .rascotButton{
+      background-color: blue;
+      color: white;
+      display: flex;
+      height: 100%;
+      border: none;
+      font-weight: bold;
+      align-items: center;
+      font-size: medium;
+  
+    }
+  
+  
+    .divProduksi{
+      margin-top: 20px;
+     flex-direction: row;
+     display: flex;
+      
+    }
+  
+  
+    .card-container1 {
+    
+      display: grid; 
+      grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); 
+      grid-gap: 10px; 
+      overflow-x: initial; 
+      padding: 10px; 
+      transition: background-color 0.3s; 
+  
+    }
+  
+     */
